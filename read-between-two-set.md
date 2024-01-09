@@ -3,7 +3,7 @@
 ## Explanation
 
 1. Initialize Result Variable:
-    result is initialized to 0. This variable will store the count of integers that meet the conditions.
+    > result is initialized to 0. This variable will store the count of integers that meet the conditions.
    
     `let result = 0;`
 
