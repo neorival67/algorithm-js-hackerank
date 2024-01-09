@@ -10,10 +10,10 @@
 2. Find Maximum of a and Minimum of b:
     > maxA is calculated as the maximum element in array a.
     > minB is calculated as the minimum element in array b.
-   
-    `let maxA = Math.max(...a);`
-    `let minB = Math.min(...b);`
-
+   ```
+    let maxA = Math.max(...a);
+    let minB = Math.min(...b);
+    ```
 3. Loop through Potential Integers:
     > Iterate through the range of integers from maxA to minB (inclusive).
    
